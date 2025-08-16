@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\algoritmaTasarimi\algoritmaTasarimi\bin\Debug\algoritmaTasarimi.exe.config
+C:\Users\Yasin\source\repos\algoritmaTasarimi\algoritmaTasarimi\bin\Debug\algoritmaTasarimi.exe
+C:\Users\Yasin\source\repos\algoritmaTasarimi\algoritmaTasarimi\bin\Debug\algoritmaTasarimi.pdb
+C:\Users\Yasin\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\algoritmaTasarimi.csproj.AssemblyReference.cache
+C:\Users\Yasin\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\algoritmaTasarimi.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\algoritmaTasarimi.exe
+C:\Users\Yasin\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\algoritmaTasarimi.pdb
